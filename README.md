@@ -16,3 +16,6 @@ In search of a place where i could apply the acquired skills in the direction: J
 ## education
 * 8-mounth intensive coding course focused on Java for WEB in [GeekHub](https://geekhub.ck.ua/)
 * graduated from Cherkasy State Technological University with a master's degree in heat energy
+
+## Contacts:
+* kuzinsergej222@gmail.com
