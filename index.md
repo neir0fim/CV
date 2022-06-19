@@ -14,7 +14,7 @@ In search of a place where i could apply the acquired skills in the direction: J
 * design engineer at a furniture factory for 8 months
 
 ## education
-* 8-mounth intensive coding course focused on Java for WEB in [GeekHub](https://geekhub.ck.ua/)  [linl to sertificate](https://drive.google.com/file/d/1yXZs3OL19Cr9CW2nprUtjnqNdUKSYuJP/view?usp=sharing)
+* 8-mounth intensive coding course focused on Java for WEB in [GeekHub](https://geekhub.ck.ua/)  [link to sertificate](https://drive.google.com/file/d/1yXZs3OL19Cr9CW2nprUtjnqNdUKSYuJP/view?usp=sharing)
 * graduated from Cherkasy State Technological University with a master's degree in heat energy
 
 ## Contacts:
